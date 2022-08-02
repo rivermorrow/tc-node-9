@@ -7,3 +7,4 @@ git clone [ssh url here]/[local directory], clones an online repository/a local 
 git add ., stages current changes for a commit
 git commit -m "message here", commits current staged changes to the local repository with a message
 git add [filename], adds a new file to the current directory
+git push, pushes all commited changes to the currently selected online repository
