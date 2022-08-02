@@ -1,1 +1,2 @@
 git config, displays git main help/command file
+git gonfig --global user.name (user.email), sets name (email) for git
