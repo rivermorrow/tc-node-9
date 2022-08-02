@@ -37,6 +37,6 @@ Be sure to add, commit and push your work back to Github. Once your work is on G
 
 ## Notes
 
-If you take notes during class or outside reading, add them to the `notes/` directory under a sub-folder labeled by your _github username_ (ex: `notes/Bryantellius/git-branching.txt`).
+If you take notes during class or outside reading, add them to the `notes/` directory under a sub-folder labeled by the _topic_, followed by a file labeled by your _github username_ (ex: `notes/git/Bryantellius.md`).
 
 Be sure to [submit a pull request](#how-to-submit-a-pull-request) to share your notes with others.

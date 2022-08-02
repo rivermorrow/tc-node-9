@@ -1,0 +1,6 @@
+git init,initializes an empty git repository
+git add,adds a file or files to the staging area
+git commit,makes a commit
+git push,pushes commits to an upstream branch
+git pull,pulls commits from an upstream branch
+git clone,clones an entire project
