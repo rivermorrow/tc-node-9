@@ -13,3 +13,4 @@ git remote add origin [server address], connect to desired server to push to
 git branch [branch name], create a new branch in your repository
 git reset [branch name], resets local repository to desired origin discarding any local commits after
 git revert [branch name], reverts online repository branch to desired origin while keeping a historical copy
+git merge [branch name], merges specified branch with currently selected online
