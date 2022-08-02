@@ -1,3 +1,4 @@
 git config, displays git main help/command file
 git gonfig --global user.name (user.email), sets name (email) for git
 git cd [file name here], change directory to specified file
+git cd .., change directory to parent file
