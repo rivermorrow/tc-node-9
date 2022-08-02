@@ -5,3 +5,4 @@ git cd .., change directory to parent file
 git init, creates a new local repository
 git clone [ssh url here]/[local directory], clones an online repository/a local repository
 git add ., stages current changes for a commit
+git commit -m "message here", commits current staged changes to the local repository with a message
