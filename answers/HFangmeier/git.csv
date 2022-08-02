@@ -9,3 +9,4 @@ git commit -m "message here", commits current staged changes to the local reposi
 git add [filename], adds a new file to the current directory
 git push, pushes all commited changes to the currently selected online repository
 git status, displays the current status of add/commit/files and the current branch selected
+git remote add origin [server address], connect to desired server to push to
