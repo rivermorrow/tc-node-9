@@ -16,3 +16,4 @@ git revert [branch name], reverts online repository branch to desired origin whi
 git merge [branch name], merges specified branch with currently selected online
 git checkout [branch name], select which branch you are currently working with
 git [command] --verbose, displays more in depth/full information about current inquiry/command
+git branch -f [branch name] HEAD~3, used to force git to move a branch around (3 commits above selected commit)
