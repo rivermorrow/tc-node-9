@@ -5,3 +5,4 @@ git push, share changes
 git status, check where you are
 git init, initialize a repository in current directory
 git log, see a history of commits
+git add ., add all changes to the staging area
