@@ -1,4 +1,10 @@
+Initialize
+
 Edit
 Add
 Commit
+
+(If not done) Set Remote Location
+(If not done) Set Remote Upstream
+
 Push
