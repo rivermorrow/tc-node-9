@@ -15,3 +15,4 @@ git reset [branch name], resets local repository to desired origin discarding an
 git revert [branch name], reverts online repository branch to desired origin while keeping a historical copy
 git merge [branch name], merges specified branch with currently selected online
 git checkout [branch name], select which branch you are currently working with
+git [command] --verbose, displays more in depth/full information about current inquiry/command
